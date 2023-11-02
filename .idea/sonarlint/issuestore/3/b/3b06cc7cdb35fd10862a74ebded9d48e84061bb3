@@ -1,0 +1,11 @@
+
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ö½ýþÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ö½ýþÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ö½ýþÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ö½ýþÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨¾©¶ûÿÿÿÿ
+k	java:S116"VRename this field "id_act_teen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ò…‚
+r	java:S116"XRename this field "id_activities" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ˆž¯ÿÿÿÿÿ
+p	java:S116"VRename this field "id_teenager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÄßæùÿÿÿÿ
+j	java:S116"URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÿ¥Ì
+y	java:S116"_Rename this field "participation_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏåÊ…þÿÿÿÿ

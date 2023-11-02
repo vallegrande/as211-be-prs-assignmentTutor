@@ -1,0 +1,25 @@
+
+{
+java:S1192)"^Define a constant instead of duplicating this literal "http://localhost:8083/ms-soa/" 5 times.(Í°üï8¥§ú÷³1
+†
+java:S1192."dDefine a constant instead of duplicating this literal "http://localhost:8082/api/teenData/" 5 times.(ºä¥ùÿÿÿÿ8· ü÷³1
+m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Š¨µ8£˜á÷³1
+n	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª´¾°8¤˜á÷³1
+s	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶å‰Ÿúÿÿÿÿ8¤˜á÷³1
+s	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‘‘Òúÿÿÿÿ8¤˜á÷³1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É¾Á÷øÿÿÿÿ8¥˜á÷³1
+W	java:S1255"<This block of commented-out lines of code should be removed.(Ø´¿&8²˜á÷³1
+Q
+java:S1611i"4Remove the parentheses around the "active" parameter(é¥Ÿ“8¶˜á÷³1
+W
+java:S1611Š"4Remove the parentheses around the "active" parameter(ÿ£Âüúÿÿÿÿ8¸˜á÷³1
+?
+java:S1116Š"Remove this empty statement.(ÿ£Âüúÿÿÿÿ8¹˜á÷³1
+l
+java:S1611±"IRemove the parentheses around the "dataAsignationOrTransaction" parameter(É÷Í½øÿÿÿÿ8¼˜á÷³1
+V
+java:S1611¸"8Remove the parentheses around the "deleteData" parameter(˜–Ø8¼˜á÷³1
+V
+java:S1611Ã"8Remove the parentheses around the "deleteData" parameter(˜–Ø8½˜á÷³1
+•
+java:S1128"sRemove this unused import 'com.soa.canete.Transaccional_Act_Teen.domain.mapper.TransaccionalActTeenMapper.toModel'.(¥œÈïøÿÿÿÿ8¡Ôî÷³1

@@ -1,0 +1,6 @@
+
+k	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φκαϊÿÿÿÿ
+k	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φκαϊÿÿÿÿ
+m	java:S116)"XRename this field "type_pronacej" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ίο±β
+m	java:S116,"SRename this field "type_soa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΙΊ£€ϊÿÿÿÿ
+[	java:S107/"AConstructor has 8 parameters, which is greater than 7 authorized.(φκαϊÿÿÿÿ

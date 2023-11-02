@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ä÷™
+y	java:S116"^Rename this field "id_actividadDetalle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó§¬8îóñö³1
+q	java:S116"URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÿ¥Ì8Î÷²ö³1
+€	java:S116"_Rename this field "participation_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏåÊ…þÿÿÿÿ8Î÷²ö³1
+X	java:S125"<This block of commented-out lines of code should be removed.(‘ûÊ8à¼¶ö³1
+
+java:S1128"dRemove this unused import 'com.soa.canete.Transaccional_Act_Teen.domain.model.TransaccionalActTeen'.(œÛÀ—8…ý‹÷³1

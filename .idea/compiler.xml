@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="as211-be-attendance" />
+        <module name="Funcionary_Soa_Canete" />
+        <module name="Transaccional_Act_Teen" />
+        <module name="Transaccional_Allocation_Soa_Canete" />
+        <module name="Teen_Soa_Canete" />
+        <module name="com.seguridad.spring" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka" target="17" />
+      <module name="Funcionary_Soa_Canete (1)" target="17" />
+      <module name="Funcionary_Soa_Canete (2)" target="17" />
+      <module name="gateway-service" target="17" />
+      <module name="Teen_Soa_Canete (1)" target="17" />
+      <module name="Teen_Soa_Canete (2)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Funcionary_Soa_Canete" options="-parameters" />
+      <module name="Funcionary_Soa_Canete (1)" options="-parameters" />
+      <module name="Funcionary_Soa_Canete (2)" options="-parameters" />
+      <module name="Teen_Soa_Canete" options="-parameters" />
+      <module name="Teen_Soa_Canete (1)" options="-parameters" />
+      <module name="Teen_Soa_Canete (2)" options="-parameters" />
+      <module name="Transaccional_Act_Teen" options="-parameters" />
+      <module name="Transaccional_Allocation_Soa_Canete" options="-parameters" />
+      <module name="as211-be-attendance" options="-parameters" />
+      <module name="com.seguridad.spring" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
+    </option>
+  </component>
+</project>

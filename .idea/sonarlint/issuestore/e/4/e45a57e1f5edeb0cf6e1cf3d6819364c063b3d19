@@ -1,0 +1,18 @@
+
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïµ´¬8¼™¯ğ¸1
+m	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ªê8¼™¯ğ¸1
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üóóÕûÿÿÿÿ8¼™¯ğ¸1
+r	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸“Ş«øÿÿÿÿ8¼™¯ğ¸1
+r	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àõ­¡şÿÿÿÿ8¼™¯ğ¸1
+Q
+java:S16112"4Remove the parentheses around the "active" parameter(ığé¿8Ï™¯ğ¸1
+S
+java:S1611:"6Remove the parentheses around the "inactive" parameter(İê£ç8Ğ™¯ğ¸1
+S
+java:S1611H"6Remove the parentheses around the "dataTeen" parameter(Å¡÷8Ó™¯ğ¸1
+P
+java:S1611O"4Remove the parentheses around the "delete" parameter(ÙËğ58Ô™¯ğ¸1
+S
+java:S1611Z"6Remove the parentheses around the "reactive" parameter(á—îò8Ô™¯ğ¸1
+F
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°8Ø™¯ğ¸1
